@@ -1,3 +1,7 @@
+theme:お試し
+title:実験用websiteへようこそ！
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KHirata401/webtest.github.jp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
